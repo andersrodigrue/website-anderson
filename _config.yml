@@ -34,24 +34,24 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: andersonrodrigues.prof
+# twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: andersonrodrigues.prof
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+# github: mygithub
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: pro.andersonrodrigues@gmail.com
 
 authors:
     johndoe:
@@ -61,8 +61,8 @@ authors:
         picture: assets/images/profile.jpg
         twitter: johndoe
     jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
+        name: Anderson Rodrigues
+        bio: Professor de Língua Portuguesa, Literatura Brasileira e Produção de Texto
         external-image: false
         picture: assets/images/james.jpg
         twitter: jamesfoster
