@@ -1,22 +1,18 @@
-# main text of home
 name: Anderson Rodrigues
 bio: Professor de Língua Portuguesa, Literatura Brasileira e Produção de Texto
 
-# twitter summary info
-description: A blog about technology and stuff related
+description: Blog Pessoal
 
-# if it's an external image, update below for true
-# better with square images
 external-image: false
 picture: assets/images/anderson.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://andersrodigrue.github.io/website-anderson2.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -31,7 +27,7 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 facebook: andersonrodrigues.prof
@@ -77,11 +73,11 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+# projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
-blog: true
+# about: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
