@@ -15,14 +15,10 @@ resume-url: http://lattes.cnpq.br/0926562955984020
 url: https://andersonrodrigues.pro.br
 # your url: http://USERNAME.github.io
 
-gems: ['jekyll-multiple-languages']
-languages: ['en', 'pt-BR']
-language_default: 'pt-BR'
-
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-145388418-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
