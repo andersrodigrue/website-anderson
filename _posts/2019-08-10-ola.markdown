@@ -11,7 +11,8 @@ author: andersonrodrigues
 description: Postagem de apresentação
 ---
 
-![Markdowm Image][assets/images/arren-mills-LwMzzpdwaDE-unsplash.jpg]
+![][assets/images/arren-mills-LwMzzpdwaDE-unsplash.jpg]
+{: class="bigger-image" }
 <figcaption class="caption">Photo by Arren Mills</figcaption>
 
 Olá!
