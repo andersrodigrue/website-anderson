@@ -16,8 +16,8 @@ url: https://andersonrodrigues.pro.br
 # your url: http://USERNAME.github.io
 
 gems: ['jekyll-multiple-languages']
-languages: ['en', 'pt']
-language_default: 'pt'
+languages: ['en', 'pt-BR']
+language_default: 'pt-BR'
 
 permalink: /:title/
 
