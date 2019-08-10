@@ -4,6 +4,7 @@ layout: post
 date: 24-02-2016 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
+hidden: true
 tag:
 - markdown
 - components
