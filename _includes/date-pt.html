@@ -1,18 +1,19 @@
-<!-- Whitespace added for readability -->
-{% assign m = include.date | date: "%-m" %}
-{{ include.date | date: "%-d" }}
-{% case m %}
-  {% when '1' %}Janeiro
-  {% when '2' %}Fevereiro
-  {% when '3' %}Março
-  {% when '4' %}Abril
-  {% when '5' %}Maio
-  {% when '6' %}Junho
-  {% when '7' %}Julho
-  {% when '8' %}Agosto
-  {% when '9' %}Setembro
-  {% when '10' %}Outubro
-  {% when '11' %}Novembro
-  {% when '12' %}Dezembro
-{% endcase %}
-{{ include.date | date: "%Y" }}
+{% assign m = post.date | date: "%-m" %}
+{% capture month_name_pt %}
+  {% case m %}
+    {% when '1' %}Janeiro
+    {% when '2' %}Fevereiro
+    {% when '3' %}Março
+    {% when '4' %}Abril
+    {% when '5' %}Maio
+    {% when '6' %}Junho
+    {% when '7' %}Julho
+    {% when '8' %}Agosto
+    {% when '9' %}Setembro
+    {% when '10' %}Outubro
+    {% when '11' %}Novembro
+    {% when '12' %}Dezembro
+  {% endcase %}
+{% endcapture %}
+
+{{ post.date | date: "%-d" }} de {{ month_name_pt }} de {{ post.date | date: "%Y" }} às {{ post.date | date: "%H:%M" }}
