@@ -11,6 +11,7 @@ author: andersonrodrigues
 description: Postagem de apresentação
 ---
 
+Olá!
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="https://andersonrodrigues.pro.br/assets/images/arren-mills-LwMzzpdwaDE-unsplash.jpg" alt="Alt Text">
@@ -18,6 +19,7 @@ description: Postagem de apresentação
     </div>
 
     <div class="toright">
-        <p>Olá!</p><p>Não há nenhuma linha editorial planejada para este espaço, mas acredito que será um ambiente comum à vida de um professor. Posso compartilhar por aqui leituras, resenhas, artigos de opinião, materiais didáticos que uso em sala de aula, artigos acadêmicos publicados por mim ou que me dispertaram interesse e, talvez, até textos ficcionais.</p><p>Então é isso, sejam bem-vindos!</p>
+        <p>Não há nenhuma linha editorial planejada para este espaço, mas acredito que será um ambiente comum à vida de um professor. Posso compartilhar por aqui leituras, resenhas, artigos de opinião, materiais didáticos que uso em sala de aula, artigos acadêmicos publicados por mim ou que me dispertaram interesse e, talvez, até textos ficcionais.</p>
     </div>
 </div>
+Então é isso, sejam bem-vindos
