@@ -11,13 +11,17 @@ author: andersonrodrigues
 description: Postagem de apresentação
 ---
 
-![](https://images.unsplash.com/photo-1551379332-2be1dfde25fb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80)
-{: class="bigger-image" }
-<figcaption class="caption">Photo by Arren Mills</figcaption>
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://andersonrodrigues.pro.br/assets/images/arren-mills-LwMzzpdwaDE-unsplash.jpg" alt="Alt Text">
+        <figcaption class="caption">Photo by John Doe</figcaption>
+    </div>
 
-Olá!
+    <div class="toright">
+        <p>Olá!
 
 Não há nenhuma linha editorial planejada para este espaço, mas acredito que será um ambiente comum à vida de um professor. Posso compartilhar por aqui leituras, resenhas, artigos de opinião, materiais didáticos que uso em sala de aula, artigos acadêmicos publicados por mim ou que me dispertaram interesse e, talvez, até textos ficcionais.
 
-Então é isso, sejam bem-vindos!  :tw-1f609:
-
+Então é isso, sejam bem-vindos!</p>
+    </div>
+</div>
