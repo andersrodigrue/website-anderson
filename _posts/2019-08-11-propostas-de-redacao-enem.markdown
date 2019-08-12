@@ -14,6 +14,6 @@ Para escrever bem, é preciso prática. Sendo assim, estou disponibilizando duas
 
 <center>Para acessar, basta clicar na imagem abaixo!</center>
 
-[![](https://drive.google.com/drive/folders/1sqTHvHw7u3VRnQzClc9gxNuEl-LkEt5m?usp=sharing)](/assets/images/iconfinder_Folder_-_Google_Docs_99854.png)
+[![](https://drive.google.com/drive/folders/1sqTHvHw7u3VRnQzClc9gxNuEl-LkEt5m?usp=sharing)](https://andersonrodrigues.pro.br/assets/images/iconfinder_Folder_-_Google_Docs_99854.png)
 
 <center>Um abraço e bons estudos, galerinha!</center>
