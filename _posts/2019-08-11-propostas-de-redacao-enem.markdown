@@ -3,7 +3,7 @@ title: "Propostas de Redação - Enem"
 layout: post
 date: 11-08-2019 08:00
 image: /assets/images/green-chameleon-s9CC2SKySJM-unsplash.jpg
-headerImage: true
+headerImage: false
 tag:
 - blog
 - material de estudo
