@@ -6,6 +6,9 @@ image: /assets/images/green-chameleon-s9CC2SKySJM-unsplash.jpg
 headerImage: true
 tag:
 - blog
+- material de estudo
+- redação
+- Ensino Médio
 category: blog, material de estudo, redação, Ensino Médio
 author: andersonrodrigues
 description: Propostas de Redação - Enem
