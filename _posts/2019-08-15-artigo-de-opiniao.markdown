@@ -6,8 +6,7 @@ image: /assets/images/arren-mills-LwMzzpdwaDE-unsplash.jpg
 headerImage: false
 tag:
 - blog
-- artigo de opinião
-category: blog, artigo de opinião
+category: blog
 author: andersonrodrigues
 description: Postagem comum
 ---
