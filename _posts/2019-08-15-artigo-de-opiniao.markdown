@@ -1,7 +1,7 @@
 ---
 title: "Artigo de Opinião"
 layout: post
-date: 10-08-2019 14:00
+date: 15-08-2019 14:00
 image: /assets/images/arren-mills-LwMzzpdwaDE-unsplash.jpg
 headerImage: false
 tag:
