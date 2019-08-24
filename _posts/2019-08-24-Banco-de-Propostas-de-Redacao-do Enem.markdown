@@ -14,3 +14,8 @@ Para fazer uma boa redação no Enem é preciso praticar, então estou disponibi
 
 [![Pasta do Google Drive](/assets/images/iconfinder_Folder_-_Google_Docs_99854.png)	](https://drive.google.com/drive/folders/1sqTHvHw7u3VRnQzClc9gxNuEl-LkEt5m?usp=sharing){: class="center" }
 
+<p align="center">
+<a href="https://drive.google.com/drive/folders/1sqTHvHw7u3VRnQzClc9gxNuEl-LkEt5m?usp=sharing">
+<img border="0" alt="W3Schools" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Folder_-_Google_Docs.png" width="100" height="100">
+</a>
+</p>
