@@ -6,6 +6,7 @@ image: /assets/images/arren-mills-LwMzzpdwaDE-unsplash.jpg
 headerImage: false
 tag:
 - blog
+- material pedagógico complementar
 category: blog
 author: andersonrodrigues
 description: Banco de Propostas de Redação do Enem
