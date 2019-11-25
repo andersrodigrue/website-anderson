@@ -1,5 +1,5 @@
 ---
-title: "Podcast Sertões - Histórias de Canudos, um rico material para aprofundar reflexões históricas e sociais"
+title: "Podcast Sertões: Histórias de Canudos, um rico material para aprofundar reflexões históricas e sociais"
 layout: post
 date: 24-11-2019 09:00
 image: 
@@ -7,10 +7,9 @@ headerImage: false
 tag:
 - blog
 - resenha
-- material pedagógico complementar
-category: blog, resenha, MPC
+category: resenha
 author: andersonrodrigues
-description: Podcast Sertões - Histórias de Canudos
+description: Podcast Sertões: Histórias de Canudos
 ---
 _Sertões: histórias de Canudos_ é uma série de 5 episódios em podcast que foi produzido pelo IMS, o Instituto Moreira Salles, com duração de aproximadamente 25 minutos cada episódio. A série é apresentada por Guilherme Freitas e mostra os estudos de diversos pesquisadores sobre a Guerra de Canudos, sobre o livro "Os Sertões" e sobre como o autor Euclides da Cunha percebeu que esta guerra era um crime, um genocídio contra o povo brasileiro, o povo que não reconhecia a República e que as elites e as capitais litorâneas não reconheciam como dignas de direitos ou empatia. A série se encontra disponível [on-line no site da rádio Batuta](https://radiobatuta.com.br/especiais/sertoes-historias-de-canudos/), a rádio do instituto.
 
