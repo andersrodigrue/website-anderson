@@ -1,5 +1,5 @@
 ---
-title: "Podcast Sertões Histórias de Canudos, um rico material para aprofundar reflexões históricas e sociais"
+title: "Podcast Sertões: Histórias de Canudos, um rico material para aprofundar reflexões históricas e sociais"
 layout: post
 date: 24-11-2019 00:00
 image: /assets/images/arren-mills-LwMzzpdwaDE-unsplash.jpg
