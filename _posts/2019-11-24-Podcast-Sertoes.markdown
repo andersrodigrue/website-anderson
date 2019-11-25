@@ -1,13 +1,13 @@
 ---
 title: "Podcast Sertões Histórias de Canudos, um rico material para aprofundar reflexões históricas e sociais"
 layout: post
-date: 24-11-2019 09:00
-image: 
+date: 24-11-2019 00:00
+image: /assets/images/arren-mills-LwMzzpdwaDE-unsplash.jpg
 headerImage: false
 tag:
 - blog
 - resenha
-category: resenha
+category: blog
 author: andersonrodrigues
 description: Podcast Sertões Histórias de Canudos
 ---
