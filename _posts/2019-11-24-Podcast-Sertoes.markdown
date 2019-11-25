@@ -7,6 +7,7 @@ headerImage: false
 tag:
 - blog
 - resenha
+- material pedagógico complementar
 category: blog
 author: andersonrodrigues
 description: Podcast Sertões Histórias de Canudos
@@ -22,11 +23,10 @@ O podcast também mostra como a população se abrigou em Canudos em busca de um
         <img class="image" src="https://andersonrodrigues.pro.br/assets/images/SERTOES_formato_Site_660x472-424x304.png" alt="Alt Text">
         <figcaption class="caption">Imagem divulgação</figcaption>
     </div>
-
     <div class="toright">
         <p>O podcast se torna mais completo ao comentar os trabalhos fotográficos de Flávio de Barros – o único fotógrafo a conhecer e trabalhar no arraial de Canudos – e ao convidar o diretor teatral José Celso Martinez Corrêa e o escritor Milton Hatoum para comentarem as suas impressões sobre a Guerra e os personagens de Canudos. Por fim, o podcast mostra como a memória de Canudos se transformou e como a população nordestina passou a se orgulhar da sua história e da sua luta no arraial.</p>
     </div>
 </div>
 O podcast mostra-se importantíssimo não só para compreender a época em que a República Brasileira se formou, mas também para compreender a sociedade em que vivemos hoje. Este rico material produzido pelo Instituto Moreira Salles pode e deve ser fonte bibliográfica para desenvolver projetos pedagógicos e enriquecer debates e reflexões entre os nossos alunos. Precisamos todos, assim como Euclides da Cunha, analisarmos a nossa sociedade e denunciarmos as agressões que cometemos às pessoas menos favorecidas, pois elas também são o nosso país, a nossa nação.
 
-<iframe width="560" height="310" src="https://www.youtube.com/watch?v=6Hsnn7TAsDA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Hsnn7TAsDA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
