@@ -1,13 +1,3 @@
-@font-face {
-    src: url(fonts/noah-bold.otf);
-    font-family: noah;
-}
-
-.paragraph {
-    font-size: 50px;
-    line-height: 62px;
-    font-family: noah;
-}
 
 @import "base/variables";
 @import "base/normalize";
