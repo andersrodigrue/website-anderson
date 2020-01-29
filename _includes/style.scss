@@ -1,12 +1,6 @@
 @font-face {
-    src: url(fonts/noah-bold.otf);
-    font-family: noah;
-}
-
-.paragraph {
-    font-size: 50px;
-    line-height: 62px;
-    font-family: noah;
+  font-family: "Noah";
+  src: url("{{ site.url }}/assets/fonts/noah-bold.otf");
 }
 
 @import "base/variables";
