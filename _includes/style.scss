@@ -1,5 +1,10 @@
 @font-face {
   font-family: "Noah";
+  src: url("{{ site.url }}/assets/fonts/noah-regular.otf");
+}
+
+@font-face {
+  font-family: "Noah Bold";
   src: url("{{ site.url }}/assets/fonts/noah-bold.otf");
 }
 
