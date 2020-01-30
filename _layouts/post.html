@@ -10,8 +10,18 @@ layout: page
 
 <span class="date">
     <time datetime="{% raw  %}
+{% assign d = page.date | date: "%a" %}
 {% assign m = page.date | date: "%-m" %}
-{{ page.date | date: "%-d de" }}
+{% case d %}
+  {% when "Sun" %}Domingo
+  {% when "Mon" %}Segunda feira
+  {% when "Tue" %}Terça feira
+  {% when "Wed" %}Quarta feira
+  {% when "Thu" %}Quinta feira
+  {% when "Fri" %}Sexta feira
+  {% when "Sat" %}Sábado
+{% endcase %}
+{{ page.date | date: "%-d de " }}
 {% case m %}
   {% when '1' %}Janeiro
   {% when '2' %}Fevereiro
