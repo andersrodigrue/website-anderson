@@ -1,11 +1,11 @@
 @font-face {
-  font-family: "Noah";
-  src: url("{{ site.url }}/assets/fonts/noah-regular.otf");
+  font-family: "Benton Sans";
+  src: url("{{ site.url }}/assets/fonts/BentonSans-Regular.otf");
 }
 
 @font-face {
-  font-family: "Noah Bold";
-  src: url("{{ site.url }}/assets/fonts/noah-bold.otf");
+  font-family: "Benton Sans Bold";
+  src: url("{{ site.url }}/assets/fonts/BentonSans-Bold.otf");
 }
 
 @import "base/variables";
