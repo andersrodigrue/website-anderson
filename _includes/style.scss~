@@ -8,12 +8,6 @@
   src: url("{{ site.url }}/assets/fonts/BentonSans-Bold.otf");
 }
 
-@font-face {
-  font-family: "Naoh";
-  src: url("{{ site.url }}/assets/fonts/noah-regular.otf");
-}
-
-
 @import "base/variables";
 @import "base/normalize";
 @import "base/syntax";
