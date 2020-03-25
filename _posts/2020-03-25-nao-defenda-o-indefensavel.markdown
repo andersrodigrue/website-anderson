@@ -2,7 +2,7 @@
 title: "Não defenda o indefensável"
 layout: post
 date: 25-03-2020 00:00
-image: /assets/images/18mar2020-jair-bolsonaro.jpg
+image: /assets/images/jair-bolsonaro.jpg
 headerImage: false
 tag:
 - blog
@@ -13,10 +13,8 @@ description: Não defenda o indefensável
 ---
 Os EUA esperam injetar 2 trilhões de dólares na economia, inclusive ajudando financeiramente todos os afetados pela crise. A Alemanha vai arriscar o crescimento do PIB, mas vai usar 750 bilhões de euros para mitigar os efeitos do coronavírus. O COI adiou os Jogos Olímpicos do Japão para o ano que vem, coisa que nunca aconteceu na história do evento esportivo. A Índia colocou mais de um bilhão de pessoas em quarentena. Enquanto o mundo todo está promovendo medidas para conter a quantidade de mortes pelo coronavírus, o ocupante do cargo de Presidente está ignorando os conselhos da OMS, do seu Ministro da Saúde e de todos os especialistas que alertam para o perigo que está por vir. Sendo assim, não é preciso ser especialista em Análise do Discurso para afirmar que a fala de ontem do Presidente foi genocida e irá matar mais do que a fome nos últimos anos.
 
-{% highlight raw %}
-![Markdowm Image][https://andersonrodrigues.pro.br/assets/images/18mar2020-jair-bolsonaro.jpg]
+![Markdowm Image][https://github.com/andersrodigrue/website-anderson/blob/gh-pages/assets/images/18mar2020-jair-bolsonaro.jpg]
 <figcaption class="caption">Pedro Ladeira/Folhapress</figcaption>
-{% endhighlight %}
 
 A dificuldade de muitas pessoas nestes tempos confusos é pensar que temos no país apenas um problema a ser solucionado. O único problema é salvar a economia e permitir que as pessoas trabalhem e coloquem dinheiro em casa para que não morram de fome, porém o problema é muito mais complexo e apenas medidas imediatistas como essa não irão evitar a morte de milhares de pessoas. Eu digo milhares, pois é a expectativa divulgada pelo Atila Iamarino, doutor em microbiologia pela USP. Quando olhamos para fora das nossas fronteiras e vemos diversos países se mobilizando para salvar não a economia, mas as vidas do seu povo; devemos nos perguntar o porquê o nosso presidente não faz o mesmo. A preocupação com o pão na mesa dos brasileiros existe e esse problema precisa ser pensado não de forma isolada, mas no contexto epidemiológico que vivemos hoje. Há outras maneiras de evitar que as pessoas morram de fome e os exemplos estão vindo de outros países, como os EUAs que mencionei anteriormente. Em uma comparação simples, o Brasil apenas irá dobrar o valor a ser pago pelo Bolsa Família, atitude que colocará na mão do brasileiro menos de R$500. Enquanto isso, o presidente Trump prevê um repasse direto aos cidadãos de US$ 1000, ou seja, R$ 5000.
 
