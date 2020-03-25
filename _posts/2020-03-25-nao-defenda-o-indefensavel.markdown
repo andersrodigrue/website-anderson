@@ -24,22 +24,22 @@ Ademais, como presencio nas redes sociais, é de extrema arrogância os defensor
 
 ---
 
-**Referências:
+**Referências:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5pUNvRXd3nw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Coronavírus: EUA chegam a acordo por pacote de 2 trilhões de dólares](https://veja.abril.com.br/mundo/coronavirus-eua-chegam-a-acordo-por-pacote-de-2-trilhoes-de-dolares/)
+* [Coronavírus: EUA chegam a acordo por pacote de 2 trilhões de dólares](https://veja.abril.com.br/mundo/coronavirus-eua-chegam-a-acordo-por-pacote-de-2-trilhoes-de-dolares/)
 
-[Alemanha acerta pacote de 750 bilhões de euros para combater coronavírus](https://exame.abril.com.br/economia/alemanha-acerta-pacote-de-750-bilhoes-de-euros-para-combater-coronavirus/)
+* [Alemanha acerta pacote de 750 bilhões de euros para combater coronavírus](https://exame.abril.com.br/economia/alemanha-acerta-pacote-de-750-bilhoes-de-euros-para-combater-coronavirus/)
 
-[Índia entra em quarentena por três semanas, e polícia dissolve protesto pacífico contra Modi na capital](https://oglobo.globo.com/mundo/india-entra-em-quarentena-por-tres-semanas-policia-dissolve-protesto-pacifico-contra-modi-na-capital-24324993)
+* [Índia entra em quarentena por três semanas, e polícia dissolve protesto pacífico contra Modi na capital](https://oglobo.globo.com/mundo/india-entra-em-quarentena-por-tres-semanas-policia-dissolve-protesto-pacifico-contra-modi-na-capital-24324993)
 
-[Projeto prevê pagamento em dobro do Bolsa Família na pandemia de coronavírus](https://www.camara.leg.br/noticias/647492-projeto-preve-pagamento-em-dobro-do-bolsa-familia-na-pandemia-de-coronavirus/)
+* [Projeto prevê pagamento em dobro do Bolsa Família na pandemia de coronavírus](https://www.camara.leg.br/noticias/647492-projeto-preve-pagamento-em-dobro-do-bolsa-familia-na-pandemia-de-coronavirus/)
 
-[Coronavírus: Trump quer enviar US$ 1000 para cada cidadão dos EUA](https://www.sunoresearch.com.br/noticias/coronavirus-trump-mil-dolares/)
+* [Coronavírus: Trump quer enviar US$ 1000 para cada cidadão dos EUA](https://www.sunoresearch.com.br/noticias/coronavirus-trump-mil-dolares/)
 
-[OMS diz que só isolamento controlará covid-19 e anuncia morte de crianças](https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/03/16/oms-coronavirus.htm)
+* [OMS diz que só isolamento controlará covid-19 e anuncia morte de crianças](https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/03/16/oms-coronavirus.htm)
 
-[Japão adia Jogos Olímpicos de Tóquio para 2021 por causa de pandemia do coronavírus](https://brasil.elpais.com/esportes/2020-03-24/japao-adia-olimpiada-para-2021-por-causa-de-pandemia-do-coronavirus.html)
+* [Japão adia Jogos Olímpicos de Tóquio para 2021 por causa de pandemia do coronavírus](https://brasil.elpais.com/esportes/2020-03-24/japao-adia-olimpiada-para-2021-por-causa-de-pandemia-do-coronavirus.html)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zF2pXXJIAGM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
