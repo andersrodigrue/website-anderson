@@ -11,7 +11,7 @@ category: blog
 author: andersonrodrigues
 description: Não defenda o indefensável
 ---
-Os EUA esperam injetar 2 trilhões de dólares na economia, inclusive ajudando financeiramente todos os afetados pela crise. A Alemanha vai arriscar o crescimento do PIB e usar 750 bilhões de euros para mitigar os efeitos do coronavírus. O COI adiou os Jogos Olímpicos do Japão para o ano que vem, coisa que nunca aconteceu na história do evento esportivo. A Índia colocou mais de um bilhão de pessoas em quarentena. Enquanto o mundo todo está promovendo medidas para conter a quantidade de mortes pelo coronavírus, o ocupante do cargo de Presidente está ignorando os conselhos da OMS, do seu Ministro da Saúde e de todos os especialistas que alertam para o perigo que está por vir. Sendo assim, não é preciso ser especialista em Análise do Discurso para afirmar que a fala de ontem do Presidente foi genocida e irá matar mais do que a fome nos últimos anos.
+Os EUA esperam injetar 2 trilhões de dólares na economia, inclusive ajudando financeiramente todos os afetados pela crise. A Alemanha vai arriscar o crescimento do PIB e usar 750 bilhões de euros para mitigar os efeitos do coronavírus. O governo britânico vai garantir 80% do salário dos trabalhadores. O COI adiou os Jogos Olímpicos do Japão para o ano que vem, coisa que nunca aconteceu na história do evento esportivo. A Índia colocou mais de um bilhão de pessoas em quarentena. Enquanto o mundo todo está promovendo medidas para conter a quantidade de mortes pelo coronavírus, o ocupante do cargo de Presidente está ignorando os conselhos da OMS, do seu Ministro da Saúde e de todos os especialistas que alertam para o perigo que está por vir. Sendo assim, não é preciso ser especialista em Análise do Discurso para afirmar que a fala de ontem do Presidente foi genocida e irá matar mais do que a fome nos últimos anos.
 
 ![](../assets/images/jair-bolsonaro.jpg)
 <figcaption class="caption">Pedro Ladeira/Folhapress</figcaption>
@@ -31,6 +31,8 @@ Ademais, como presencio nas redes sociais, é de extrema arrogância os defensor
 * [Coronavírus: EUA chegam a acordo por pacote de 2 trilhões de dólares](https://veja.abril.com.br/mundo/coronavirus-eua-chegam-a-acordo-por-pacote-de-2-trilhoes-de-dolares/)
 
 * [Alemanha acerta pacote de 750 bilhões de euros para combater coronavírus](https://exame.abril.com.br/economia/alemanha-acerta-pacote-de-750-bilhoes-de-euros-para-combater-coronavirus/)
+
+* [Saiba o que Europa e EUA estão fazendo para proteger os trabalhadores](https://oglobo.globo.com/economia/saiba-que-europa-eua-estao-fazendo-para-proteger-os-trabalhadores-1-24324426)
 
 * [Índia entra em quarentena por três semanas, e polícia dissolve protesto pacífico contra Modi na capital](https://oglobo.globo.com/mundo/india-entra-em-quarentena-por-tres-semanas-policia-dissolve-protesto-pacifico-contra-modi-na-capital-24324993)
 
