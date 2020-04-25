@@ -44,10 +44,10 @@ instagram: andersonrodrigues.prof
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: andersonrodrigues.prof
+# medium: andersonrodrigues.prof
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: pro.andersonrodrigues@gmail.com
+email: contato@andersonrodrigues.pro.br
 
 authors:
     andersonrodrigues:
@@ -76,8 +76,8 @@ width: normal
 # projects: true
 
 # if you don't need "about" or "blog", comment them out below
-# about: true
-# blog: true
+# curso: true
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -89,7 +89,7 @@ show-tags: true
 related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+post-advance-links: [blog, artigo de opinião]
 
 # show author block at the end of a post ?
 show-author: true
