@@ -42,7 +42,10 @@ Disponível em: <https://outraspalavras.net/>. Acesso em: 28 mar. 2020.
 
 **TEXTO IV**
 
-![](/home/anderson/Downloads/imagem proposta.png)
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="https://andersonrodrigues.pro.br/assets/images/kayser-crescendo-sem-parar.png" alt="Alt Text">
+    </div>
 
 Disponível em: <https://blogdokayser.blogspot.com/>. Acesso em: 28 mar. 2020.
 
