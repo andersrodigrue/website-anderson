@@ -50,8 +50,6 @@ Disponível em: <https://blogdokayser.blogspot.com/>. Acesso em: 28 mar. 2020.
 
 A partir da leitura dos textos motivadores e com base nos conhecimentos construídos ao longo de sua formação, redija texto dissertativo-argumentativo em modalidade escrita formal da língua portuguesa sobre o tema “As consequências do discurso de ódio na sociedade brasileira”, apresentando proposta de intervenção que respeite os direitos humanos. Selecione, organize e relacione, de forma coerente e coesa, argumentos e fatos para defesa de seu ponto de vista.
 
-<a href="https://drive.google.com/file/d/14x3HQcPL6e7TJBtyp-6gpWBco6wt1svm/view?usp=sharing">
-<img src="logo_w3s.gif">
-</a>
-
-![](/home/anderson/Documentos/Contexto/Site/button/default/primary.png)
+<center><a href="https://drive.google.com/file/d/14x3HQcPL6e7TJBtyp-6gpWBco6wt1svm/view?usp=sharing">
+<img src="https://andersonrodrigues.pro.br/assets/images/baixar.png">
+</a></center>
