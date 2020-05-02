@@ -42,7 +42,7 @@ Disponível em: <https://outraspalavras.net/>. Acesso em: 28 mar. 2020.
 
 **TEXTO IV**
 
-![Markdowm Image][/assets/imageskayser-crescendo-sem-parar.png]
+![](../assets/images/kayser-crescendo-sem-parar.png)
 
 Disponível em: <https://blogdokayser.blogspot.com/>. Acesso em: 28 mar. 2020.
 
