@@ -2,12 +2,12 @@
 title: "As consequências do discurso de ódio na sociedade brasileira"
 layout: post
 date: 04-05-2020 08:00
-image: 
+image: /assets/images/Instagram_-_5.png
 headerImage: false
 tag:
 - blog
 - tema de redação
-category: blog, tema de redação
+category: blog
 author: andersonrodrigues
 description: Tema de Redação
 ---
