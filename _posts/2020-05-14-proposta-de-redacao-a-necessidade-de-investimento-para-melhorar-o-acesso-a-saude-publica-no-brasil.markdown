@@ -16,7 +16,9 @@ description: Tema de Redação
 **TEXTO I**
 
 **SEÇÃO II**
+
 **DA SAÚDE**
+
 Art. 200. Ao sistema único de saúde compete, além de outras atribuições, nos termos da lei:
 
 I - controlar e fiscalizar procedimentos, produtos e substâncias de interesse para a saúde e participar da produção de medicamentos, equipamentos, imunobiológicos, hemoderivados e outros insumos;
@@ -38,7 +40,7 @@ Mesmo envolto numa nuvem de reclamações, inclusive na Justiça, o Sistema Úni
 
 — A realidade do SUS é heterogênea. Em alguns lugares funciona muito bem, em outros não, mas em geral o sistema tem uma produção muito grande, que muitas vezes não é visível para a sociedade, porque são divulgados mais os problemas. Há grandes avanços que precisam ser conhecidos pela sociedade para que ela valorize também — avalia o consultor de saúde da Câmara Fábio Gomes. Antes do SUS, o acesso à saúde pública era restrito a quem tinha carteira de trabalho assinada, o que dá uma dimensão da importância da universalidade atual.
 
-Agência Senado. Disponível em: <www12.senado.leg.br>. Acesso em: 12 maio 2020.
+Agência Senado. Disponível em: <http://www12.senado.leg.br/>. Acesso em: 12 maio 2020.
 
 **TEXTO III**
 
